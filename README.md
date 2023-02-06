@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&duration=4000&pause=1000&color=7600a9&center=true&Center=true&width=435&lines=Desenvolvedora+Back-end+em+forma%C3%A7%C3%A3o!!)](https://git.io/typing-svg)
 
-- 🔭 Em transição de carreira! No momento atuando como professora particular de português, redação e escrita criativa.
+- 🔭 Em transição de carreira!
 - 📚 Me aprofundando em Python e Java.
+- ✍🏻 Integrante do grupo Go Ahead.
 - 📖 Constantemente lendo!
 - 📫 Contate-me no e-mail: souzalavs@gmail.com
 
